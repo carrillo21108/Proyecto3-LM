@@ -1,5 +1,5 @@
 # Proyecto3-LM
-💻 Algoritmo de Dijkstra en DB NoSQL
+💻 Algoritmo de Dijkstra sobre grafo de los Departamentos de Guatemala
 ## Curso
 Lógica matemática
 ## Tecnologías
